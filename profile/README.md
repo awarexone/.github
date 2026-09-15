@@ -39,16 +39,22 @@ Based in Malaysia. Working worldwide.
 
 ---
 
+## Pinned repositories
+
+Our pinned open-source projects on GitHub:
+
+| Project | Description | |
+| --- | --- | --- |
+| **[Agentic-Bug-Hunter](https://github.com/Awarexone/Agentic-Bug-Hunter)** | AI-powered bug bounty hunting toolkit that works with or without subscription. | [![Stars](https://img.shields.io/github/stars/Awarexone/Agentic-Bug-Hunter?style=flat-square&labelColor=0B0912&color=CBA6FF)](https://github.com/Awarexone/Agentic-Bug-Hunter/stargazers) |
+| **[public-skills-builder](https://github.com/Awarexone/public-skills-builder)** | Generate Claude Code bug bounty skills from public HackerOne reports and GitHub writeups — 18 vuln classes, no private reports needed. | [![Stars](https://img.shields.io/github/stars/Awarexone/public-skills-builder?style=flat-square&labelColor=0B0912&color=CBA6FF)](https://github.com/Awarexone/public-skills-builder/stargazers) |
+| **[web3-bug-bounty-hunting-ai-skills](https://github.com/Awarexone/web3-bug-bounty-hunting-ai-skills)** | 18 Claude Code skill files for smart contract security — built from 2,749 Immunefi reports, 681 DeFiHack reproductions, and real hunt experience. | [![Stars](https://img.shields.io/github/stars/Awarexone/web3-bug-bounty-hunting-ai-skills?style=flat-square&labelColor=0B0912&color=CBA6FF)](https://github.com/Awarexone/web3-bug-bounty-hunting-ai-skills/stargazers) |
+| **[AXguard](https://github.com/Awarexone/AXguard)** | Open-source AI security tool to scan and fix vulnerabilities in your vibe-coded apps before you ship. AXguard by AwareXone. | [![Stars](https://img.shields.io/github/stars/Awarexone/AXguard?style=flat-square&labelColor=0B0912&color=CBA6FF)](https://github.com/Awarexone/AXguard/stargazers) |
+
+---
+
 ## Open Source
 
 AwareXone builds practical, permissively licensed, self-hostable security tools. No telemetry, no gated tier, no upgrade path that quietly becomes the product.
-
-| Project | What it is |
-| --- | --- |
-| **[AXguard](https://github.com/Awarexone/AXguard)** | Open-source AI security tool to scan and fix vulnerabilities in AI-built and vibe-coded applications before they ship. |
-| **[Agentic Bug Hunter](https://github.com/Awarexone/Agentic-Bug-Hunter)** | AI-powered bug bounty and vulnerability hunting toolkit for finding and validating security issues in live applications. |
-| **[Public Skills Builder](https://github.com/Awarexone/public-skills-builder)** | Turns public security research, bug bounty reports, and write-ups into reusable security skills for AI agents. |
-| **[Web3 Bug Bounty AI Skills](https://github.com/Awarexone/web3-bug-bounty-hunting-ai-skills)** | Open-source AI security skills for smart contracts, DeFi, and Web3 security research. |
 
 ### AXguard
 
