@@ -116,21 +116,9 @@ Web3 Bug Bounty AI Skills
 
 AwareXone also works directly with organizations and individuals.
 
-### Penetration Testing & Security Testing
-
-Testing applications, APIs, infrastructure, and systems for security vulnerabilities. Offensive work runs on written authorisation, an agreed scope, and a named emergency stop contact. Reports describe what worked — never which individual fell for it.
-
 ### Social Engineering Defense
 
 We run the attacks your staff will really face — the phone call, the invoice, the cloned voice, the service desk reset — then rebuild the judgement those attacks depend on:
-
-- phishing
-- vishing
-- SMiShing
-- callback phishing
-- impersonation
-- AI-generated / deepfake social engineering
-- adversarial simulation
 
 Followed by the **Human Firewall Program** that strengthens human defences over time.
 
@@ -142,23 +130,7 @@ Practical security awareness and social engineering training so people can recog
 
 Support for compromised or inaccessible online accounts and social media accounts, plus exposure removal. Recovery is best-effort — we do not promise guaranteed outcomes.
 
-### Human Risk Security
-
-Help organizations see where people are vulnerable to social engineering and strengthen those defences. Includes security advisory and vCISO support where needed.
-
-### Related services
-
-Threat intelligence, dark web monitoring and data removal, incident response, and deepfake verification — when the problem sits behind the person who was contacted, or after something has already gone wrong.
-
-### Executive & VIP digital protection
-
-Account recovery, exposure removal, and executive / VIP digital protection. Families are covered as standard, because that is often the softer path to an executive.
-
 ---
-
-## Free capacity, every month
-
-We reserve capacity every month for schools, clinics, charities, and community groups. Being underfunded should not mean being undefended. If that is you, write to us and say so.
 
 ---
 
@@ -168,52 +140,10 @@ AI is changing how software is built. It is also changing how attacks are create
 
 AwareXone builds security tools and services around that change.
 
-We help people:
-
-- find vulnerabilities earlier
-- secure AI-built applications
-- protect online accounts
-- prevent scams
-- defend against social engineering
-- protect digital assets
-- reduce security risk
-
 We want the AI era to be safer for the people building it and the people using it.
 
 ---
 
-## Who We Build For
-
-| Who | Why |
-| --- | --- |
-| **Developers** | Secure AI-built and modern applications before they ship |
-| **Security researchers** | Find, validate, and report real vulnerabilities |
-| **Organizations** | Protect applications, people, accounts, and digital assets |
-| **Individuals** | Protect online accounts and reduce digital risk |
-| **AI builders** | Build safer AI applications and agents |
-
----
-
-## Brand structure
-
-```text
-AwareXone
-│
-├── Open-source security tools
-│   ├── AXguard
-│   ├── Agentic Bug Hunter
-│   ├── Public Skills Builder
-│   └── Web3 Bug Bounty AI Skills
-│
-└── Cybersecurity services
-    ├── Security testing
-    ├── Social engineering defense
-    ├── Cybersecurity training
-    ├── Account / social media recovery
-    └── Human-risk security
-```
-
----
 
 ## Website & Contact
 
