@@ -2,16 +2,16 @@
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/Awarexone/.github/main/profile/assets/hero-still.png">
-  <img src="https://raw.githubusercontent.com/Awarexone/.github/main/profile/assets/hero.png" width="828" alt="AwareXone — social media recovery, human-layer security, and open-source tools">
+  <img src="https://raw.githubusercontent.com/Awarexone/.github/main/profile/assets/hero.png" width="828" alt="AwareXone — building open-source security infrastructure for the AI era">
 </picture>
 
 # AwareXone
 
-> Social media recovery when platforms fail. Authorised human-layer security. Open-source tools anyone can use.
+> Building open-source security infrastructure for the AI era.
 
-AwareXone recovers hacked, locked, and disabled social accounts through legitimate channels, runs authorised social-engineering programmes that harden the human layer, and publishes open-source security tools for the AI era.
+We build security tools and services that help developers, security researchers, organizations, and individuals find vulnerabilities, prevent attacks, and protect their digital assets.
 
-[Website](https://www.awarexone.com) · [Social Media Recovery](https://www.awarexone.com/all-types-of-social-media-problem-solutions) · [Open Source](https://www.awarexone.com/open-source) · [Services](https://www.awarexone.com/services) · [X](https://x.com/awarexone)
+[Website](https://www.awarexone.com) · [Open Source](https://www.awarexone.com/open-source) · [Services](https://www.awarexone.com/services) · [GitHub](https://github.com/Awarexone) · [X](https://x.com/awarexone)
 
 </div>
 
