@@ -2,16 +2,16 @@
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/Awarexone/.github/main/profile/assets/hero-still.png">
-  <img src="https://raw.githubusercontent.com/Awarexone/.github/main/profile/assets/hero.png" width="828" alt="AwareXone — building open-source security infrastructure for the AI era">
+  <img src="https://raw.githubusercontent.com/Awarexone/.github/main/profile/assets/hero.png" width="828" alt="AwareXone — social media recovery, human-layer security, and open-source tools">
 </picture>
 
 # AwareXone
 
-> Building open-source security infrastructure for the AI era.
+> Social media recovery when platforms fail. Authorised human-layer security. Open-source tools anyone can use.
 
-We build security tools and services that help developers, security researchers, organizations, and individuals find vulnerabilities, prevent attacks, and protect their digital assets.
+AwareXone recovers hacked, locked, and disabled social accounts through legitimate channels, runs authorised social-engineering programmes that harden the human layer, and publishes open-source security tools for the AI era.
 
-[Website](https://www.awarexone.com) · [Open Source](https://www.awarexone.com/open-source) · [Services](https://www.awarexone.com/services) · [GitHub](https://github.com/Awarexone) · [X](https://x.com/awarexone)
+[Website](https://www.awarexone.com) · [Social Media Recovery](https://www.awarexone.com/all-types-of-social-media-problem-solutions) · [Open Source](https://www.awarexone.com/open-source) · [Services](https://www.awarexone.com/services) · [X](https://x.com/awarexone)
 
 </div>
 
@@ -19,21 +19,28 @@ We build security tools and services that help developers, security researchers,
 
 ## What We Do
 
-### AI & Application Security
+### 1. Social Media Recovery *(flagship)*
 
-Security tools for AI-built applications, AI agents, APIs, source code, and modern software — so issues are found before they ship.
+Human-led help for hacked, locked, disabled, and impersonated accounts across Facebook, Instagram, TikTok, Threads, X, and YouTube — plus content removal and related identity work.
 
-### Offensive Security
+- Case review first. Reply within five hours.
+- Legitimate platform channels only. Best-effort. Platforms decide.
+- No passwords, OTP codes, backup codes, or private keys on our forms.
+- Limited cases at a time. Not the cheapest option by design.
 
-Vulnerability discovery, penetration testing, bug bounty research, and application security testing — against real systems, with written authorisation and agreed scope.
+**[Apply for a case review →](https://www.awarexone.com/all-types-of-social-media-problem-solutions#case-review)**
 
-### Human & Social Engineering Security
+### 2. Social Engineering & Training
 
-Defense and training around phishing, vishing, SMiShing, callback phishing, impersonation, and AI/deepfake social engineering — then rebuilding the judgement those attacks depend on.
+Authorised testing and training for the attacks people actually face — phishing, vishing, SMS, callback, impersonation, and AI/deepfake social engineering — then coaching that rebuilds judgement. Written authorisation and agreed scope only.
 
-### Digital Protection & Recovery
+### 3. Open-Source Security Tools
 
-Account and social media recovery support, exposure removal, and executive / VIP digital protection. Families are covered as standard. We do not guarantee recovery outcomes.
+Permissively licensed tools for AI-built apps, bug bounty research, and agent-assisted security work. No telemetry tax. See the pinned repositories below.
+
+### 4. Cybersecurity Services
+
+Authorised vulnerability discovery, application security, and related engagements against real systems — with written authorisation, agreed scope, and an emergency stop.
 
 Based in Malaysia. Working worldwide.
 
@@ -41,7 +48,7 @@ Based in Malaysia. Working worldwide.
 
 ## Pinned repositories
 
-Our pinned open-source projects on GitHub:
+Open-source projects we maintain. Use only with explicit authorisation and within agreed scope.
 
 | Project | Description | |
 | --- | --- | --- |
@@ -50,65 +57,47 @@ Our pinned open-source projects on GitHub:
 | **[web3-bug-bounty-hunting-ai-skills](https://github.com/Awarexone/web3-bug-bounty-hunting-ai-skills)** | 18 Claude Code skill files for smart contract security — built from 2,749 Immunefi reports, 681 DeFiHack reproductions, and real hunt experience. | [![Stars](https://img.shields.io/github/stars/Awarexone/web3-bug-bounty-hunting-ai-skills?style=flat-square&labelColor=0B0912&color=CBA6FF)](https://github.com/Awarexone/web3-bug-bounty-hunting-ai-skills/stargazers) |
 | **[AXguard](https://github.com/Awarexone/AXguard)** | Open-source AI security tool to scan and fix vulnerabilities in your vibe-coded apps before you ship. AXguard by AwareXone. | [![Stars](https://img.shields.io/github/stars/Awarexone/AXguard?style=flat-square&labelColor=0B0912&color=CBA6FF)](https://github.com/Awarexone/AXguard/stargazers) |
 
----
-
-## Cybersecurity Services
-
-AwareXone also works directly with organizations and individuals.
-
-### Social Engineering Defense
-
-We run the attacks your staff will really face — the phone call, the invoice, the cloned voice, the service desk reset — then rebuild the judgement those attacks depend on:
-
-Followed by the **Human Firewall Program** that strengthens human defences over time.
-
-### Cybersecurity Training
-
-Practical security awareness and social engineering training so people can recognise and respond to real attacks.
-
-### Account & Social Media Recovery
-
-Support for compromised or inaccessible online accounts and social media accounts, plus exposure removal. Recovery is best-effort — we do not promise guaranteed outcomes.
+Full index: [www.awarexone.com/open-source](https://www.awarexone.com/open-source)
 
 ---
+
+## Recovery & identity services
+
+Primary hub: **[Social Media Recovery](https://www.awarexone.com/all-types-of-social-media-problem-solutions)**
+
+Also: [platform landings](https://www.awarexone.com/social-media-recovery/platforms) · [impersonation removal](https://www.awarexone.com/social-media-recovery/impersonation-removal) · [content removal](https://www.awarexone.com/social-media-recovery/social-media-content-removal) · [digital identity protection](https://www.awarexone.com/digital-identity-protection)
+
+Outcomes are best-effort. “Guaranteed recovery” offers from third parties are a red flag. AwareXone is independent and not affiliated with Meta, Instagram, TikTok, X, YouTube, or Snapchat unless explicitly stated.
 
 ---
 
 ## Why We Build
 
-AI is changing how software is built. It is also changing how attacks are created, automated, and scaled.
+Accounts are the identity layer attackers actually steal. AI is changing how software is built — and how attacks are created, automated, and scaled.
 
-AwareXone builds security tools and services around that change.
-
-We want the AI era to be safer for the people building it and the people using it.
+AwareXone puts recovery and human-layer defence first, and ships open-source security tools so builders and researchers can harden the AI era in the open.
 
 ---
-
 
 ## Website & Contact
 
 **Explore AwareXone →** [www.awarexone.com](https://www.awarexone.com)
 
-[Services](https://www.awarexone.com/services) · [Open source](https://www.awarexone.com/open-source) · [Research](https://www.awarexone.com/blog)
+[Case review](https://www.awarexone.com/all-types-of-social-media-problem-solutions#case-review) · [Open source](https://www.awarexone.com/open-source) · [Services](https://www.awarexone.com/services) · [Research](https://www.awarexone.com/blog)
 
-**[awarexone@gmail.com](mailto:awarexone@gmail.com)** — engagements, open source, disclosure  
-**[hello@awarexone.com](mailto:hello@awarexone.com)** — general contact
+**[hello@awarexone.com](mailto:hello@awarexone.com)** — general  
+**[support@awarexone.com](mailto:support@awarexone.com)** — case & support  
+**[security@awarexone.com](mailto:security@awarexone.com)** — security / disclosure  
+
+WhatsApp: [+60 11-3763 4679](https://wa.me/601137634679)
 
 [GitHub](https://github.com/Awarexone) · [X](https://x.com/awarexone)
 
 ---
 
-## About AwareXone
-
-AwareXone builds open-source security tools and provides cybersecurity services for the AI era.
-
-Our work spans AI security, application security, offensive security, social engineering defense, human risk, and digital protection.
-
----
-
 ## Contributing
 
-Open-source contributions are welcome on the public repositories above. Prefer issues and pull requests on the relevant project. For security disclosures, email **[awarexone@gmail.com](mailto:awarexone@gmail.com)**.
+Open-source contributions are welcome on the public repositories above. Prefer issues and pull requests on the relevant project. For security disclosures, email **[security@awarexone.com](mailto:security@awarexone.com)**.
 
 ## Responsible Use
 
