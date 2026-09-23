@@ -1,0 +1,8 @@
+# Default Sponsors config for AwareXone repositories.
+# Enables the GitHub Sponsor button → https://github.com/sponsors/awarexone
+# Repos may override with their own .github/FUNDING.yml.
+
+github: [awarexone]
+custom:
+  - https://awarexone.com
+  - https://www.buymeacoffee.com/shuvonsec
